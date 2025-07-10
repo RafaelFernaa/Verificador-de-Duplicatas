@@ -23,5 +23,4 @@ typedef struct HashTable {
     CmpFunc compare;
     FreeFunc freeKey;
     FreeFunc freeVal;
-    //aaaaa
 } HashTable;
